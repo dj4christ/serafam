@@ -4,5 +4,8 @@ body {
     color: rgb(184, 94, 9);
 }
 h1 {
-    size: 50px;
+    font-size: 100px;
+}
+#mainLogo {
+    width: 250px;
 }
