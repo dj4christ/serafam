@@ -3,3 +3,6 @@ body {
     background-color: rgb(27, 27, 27);
     color: rgb(184, 94, 9);
 }
+h1 {
+    size: 50px;
+}
